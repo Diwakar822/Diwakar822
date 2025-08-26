@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://diwakar-portfolios.netlify.app/](https://diwakar-portfolios.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://diwakars-fsd-portfolio.netlify.app/](https://diwakars-fsd-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
