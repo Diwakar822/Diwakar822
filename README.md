@@ -75,7 +75,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar&show_icons=true&locale=en&layout=compact" alt="diwakar" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar&show_icons=true&locale=en&layout=compact&langs_count=10&hide=ruby&custom_title=Most%20Used%20Languages%20(JavaScript%20Focused)" alt="diwakar" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar&show_icons=true&locale=en" alt="diwakar" /></p>
 
