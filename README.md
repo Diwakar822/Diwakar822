@@ -75,8 +75,9 @@
 </p>
 
 
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar&show_icons=true&locale=en&layout=compact&hide=ruby" alt="diwakar" />
+  <img src="https://img.shields.io/badge/JavaScript-100%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript 100%">
 </p>
 
 
