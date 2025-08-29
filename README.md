@@ -76,9 +76,12 @@
 
 
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-100%25-yellow?style=for-the-badge&logo=javascript" alt="JavaScript 100%">
-</p>
+<div style="width: 300px; background: #f3f3f3; border-radius: 8px; overflow: hidden; border: 1px solid #ccc;">
+  <div style="width: 100%; background: #f7df1e; color: #000; padding: 5px 0; text-align: center; font-weight: bold;">
+    JavaScript 100%
+  </div>
+</div>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar&show_icons=true&locale=en" alt="diwakar" /></p>
