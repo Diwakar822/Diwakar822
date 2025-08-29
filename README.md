@@ -5,15 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwakar" alt="diwakar" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on **SmartCart – A Modern E-commerce Platform**
+
+- 👯 I’m looking to collaborate on **Open Source MERN Projects**
+
+- 🤝 I’m looking for help with **Building Scalable Full-Stack Applications**
+
+- 🌱 I’m currently learning **AWS, GraphQL, Microservices Architecture**
 
 - 👨‍💻 All of my projects are available at [https://diwakars-fsd-portfolio.netlify.app/](https://diwakars-fsd-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
+- 📝 I regularly write articles on **My Tech Blog**
+
 - 📫 How to reach me **lokeshbsccomputerscience@gmail.com**
 
-- ⚡ Fun fact **coding is Fun**
+- ⚡ Fun fact **I debug faster when I have coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
